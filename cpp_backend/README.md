@@ -56,4 +56,4 @@ INSERT INTO products (name, price, image) VALUES
    ```
 
 ## Note on Preview
-The live preview in this environment uses a **Node.js/TypeScript shim** because the sandboxed environment is optimized for Node.js execution. However, the `main.cpp` file provided here contains the full logic for the C++ backend you requested.
+The live preview in this environment uses a **Node.js/TypeScript shim** because the sandboxed environment is optimized for Node.js execution. However, the `main.cpp` file provided here contains the full logic for the C++ backend.
